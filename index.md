@@ -2,10 +2,10 @@
 
 * * *
 
-### Market Basket Analysis for Retail <!--(/projects/project7_title)-->
+### [Market Basket Analysis for Retail](#) <!--(/projects/project7_title)-->
 Market basket analysis is a process that looks for relationships among entities and objects that frequently appear together, such as the collection of items in a shopping cart. This project is an attempt to analyze an online retail data set and try to find the relationship of objects that go together within the business context. With this information, we can get what products can be placed close to each other, and also what products to recommend to a customer at checkout.  
 
-[...in progress] <!--(https://ndcharles.github.io/projects/project7_title)-->
+[...in progress](#) <!--(https://ndcharles.github.io/projects/project7_title)-->
 
 ---
 
