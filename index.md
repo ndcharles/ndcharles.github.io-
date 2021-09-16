@@ -2,6 +2,13 @@
 
 * * *
 
+### Market Basket Analysis for Retail <!--(/projects/project7_title)-->
+Market basket analysis is a process that looks for relationships among entities and objects that frequently appear together, such as the collection of items in a shopping cart. This project is an attempt to analyze an online retail data set and try to find the relationship of objects that go together within the business context. With this information, we can get what products can be placed close to each other, and also what products to recommend to a customer at checkout.  
+
+[...in progress] <!--(https://ndcharles.github.io/projects/project7_title)-->
+
+---
+
 ### [Lagos Rent Prediction Web app (EazyRent)](/projects/project1_title)
 This is an inter-track project which involves the UI/UX team, Data Science team and Software Engineering team. As part of the data science team, our task is to scrape the necessary data and then develop a machine learning model to help house seekers in Lagos have an idea of how much it would cost them to rent an apartment in locations around Lagos.
 <!--- <img src="images/dummy_thumbnail.jpg?raw=true"/> --->
@@ -52,7 +59,6 @@ Exploratory Data Analysis is an important step required to complete every projec
 - Pandas and Numpy
 - Scikit-Learn
 - SQL
-- Tableau
 - Other data science & ML frameworks
 
 ---
